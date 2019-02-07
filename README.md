@@ -1,2 +1,5 @@
 # hello-world
-Hello World repository
+
+Hi, humans!
+
+Bla, bla, bla...
